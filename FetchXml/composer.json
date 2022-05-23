@@ -1,0 +1,20 @@
+{
+    "name": "sugrob69/fetchxml-query-constructor",
+    "description": "Tool for building fetchXml queries",
+    "type": "libraty",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rostislav Turovtsev",
+            "email": "mail@rturovtsev.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
